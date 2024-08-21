@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MurtDev&theme=dark&hide_border=&locale=es)](https://git.io/streak-stats)
 <!--
 **MurtDev/MurtDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
