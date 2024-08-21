@@ -36,7 +36,7 @@ Te invito a explorar mis proyectos personales en [GitHub](https://github.com/Mur
 
 Si quieres saber más sobre mi trabajo o colaborar en un proyecto, no dudes en contactarme:
 
-- [LinkedIn](www.linkedin.com/in/murtdev)
+- [LinkedIn](http://www.linkedin.com/in/murtdev)
 - [Email](mailto:navea.dev@gmail.com)
 
 
